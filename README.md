@@ -102,6 +102,37 @@ My research focuses on elucidating the molecular mechanisms underlying ocular su
 [![UCI ScholarConnect](https://img.shields.io/badge/UCI-ScholarConnect-003366?style=for-the-badge)](https://scholarconnect.uci.edu/sbaggam)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dr-satish-patnaik-baggam-259b7ba9)
 
+### Selected Peer-Reviewed Publications
+
+1. Kumar S, **Patnaik S**, Joshi MB, Jalali S, Agarwal K, Kekunnaya R, Chakrabarti S, Kaur I. Detailed investigation on the role of lipid metabolizing enzymes in the pathogenesis of retinopathy of prematurity among preterm infants. *J Neurochem.* 2024 Sep;168(9):3171–3187. [doi:10.1111/jnc.16190](https://doi.org/10.1111/jnc.16190)
+
+2. Pyatla G, Kabra M, Mandal AK, Zhang W, Mishra A, Bera S, Rathi S, **Patnaik S**, Anthony A, Dixit R, Banerjee S, Shekhar K, Marmamula S, Kaur I, Khanna RC, Chakrabarti S. Potential involvements of a centrosomal (CEP164) and a ciliary (INPP5E) gene in primary congenital glaucoma. *Int J Mol Sci.* 2024 Sep 18;25(18):10028. [doi:10.3390/ijms251810028](https://doi.org/10.3390/ijms251810028)
+
+3. **Patnaik S**, Rai M, Jalali S, Agarwal K, et al. An interplay of microglia and matrix metalloproteinase MMP9 under hypoxic stress regulates the Opticin expression in retina. *Scientific Reports.* 2021;11(1):7444. [PMID: 33811221](https://pubmed.ncbi.nlm.nih.gov/33811221/)
+
+4. Ali MJ, **Patnaik S**, Kelkar N, Ali MH, Kaur I. Alteration of Tear Cytokine Expressions in Primary Acquired Nasolacrimal Duct Obstruction — Potential Insights into the Etiopathogenesis. *Curr Eye Res.* 2020;45(4):435–439. [PMID: 31490706](https://pubmed.ncbi.nlm.nih.gov/31490706/)
+
+5. **Patnaik S**, Jalali S, Joshi MB, Satyamoorthy K, Kaur I. Metabolomics Applicable to Retinal Vascular Diseases. *Methods Mol Biol.* 2019;1996:325–331. [PMID: 31127565](https://pubmed.ncbi.nlm.nih.gov/31127565/)
+
+6. Rathi S, Jalali S, Musada GR, **Patnaik S**, et al. Mutation spectrum of NDP, FZD4 and TSPAN12 genes in Indian patients with retinopathy of prematurity. *Br J Ophthalmol.* 2018;102(2):276–281. [PMID: 28982955](https://pubmed.ncbi.nlm.nih.gov/28982955/)
+
+7. Rathi S, Jalali S, **Patnaik S**, Shahulhameed S, Musada GR, et al. Abnormal Complement Activation and Inflammation in the Pathogenesis of Retinopathy of Prematurity. *Front Immunol.* 2017;8:1868. [PMID: 29312345](https://pubmed.ncbi.nlm.nih.gov/29312345/)
+
+### Book Chapter
+
+- Kaur T, **Patnaik S**, Kumar S, Kaur I. Molecular Mechanisms in the Pathogenesis of Retinopathy of Prematurity (ROP). In: Nema HV, Nema N (eds) *Genetics of Ocular Diseases.* Springer, 2022. [doi:10.1007/978-981-16-4247-0_9](https://doi.org/10.1007/978-981-16-4247-0_9)
+
+---
+
+## 🏆 Awards & Recognition
+
+- **Young Scientist Award** — 46th Annual Meeting, Indian Society of Human Genetics (ISHG), India, 2022
+- **International Travel Grant** — Department of Biotechnology (India) and Council of Scientific and Industrial Research (CSIR, India), to attend the Association for Research in Vision and Ophthalmology (ARVO) Annual Meeting, Vancouver, Canada, 2019
+- **Best Oral Presentation** — ARVO-India (ARVO International Chapter Affiliate) Annual Meeting, LVPEI, Hyderabad, India, 2018
+- **Prerna Award** — Recognition of service beyond the call of duty, L V Prasad Eye Institute, 2017
+- **CSIR-UGC Junior Research Fellowship** (All India Rank 64, 2013) and **Senior Research Fellowship** (2017), Council of Scientific & Industrial Research, India
+- **Pondicherry Central University Master's Entrance** — All India Rank 21, M.Sc. Biotechnology, 2011
+
 ---
 
 ## 📊 GitHub Statistics
@@ -119,18 +150,16 @@ My research focuses on elucidating the molecular mechanisms underlying ocular su
 
 I welcome collaboration on single-cell and spatial multi-omics studies of ocular disease, methodological work in integrative transcriptomic–epigenomic–lipidomic analysis, peer review for vision science and genomics journals, and mentorship of trainees in computational biology and translational ophthalmic research.
 
-**Contact**
+**Email:** sbaggam@hs.uci.edu · satishbiochem1@gmail.com
 
-- ✉️ **Institutional:** [sbaggam@hs.uci.edu](mailto:sbaggam@hs.uci.edu)
-- ✉️ **Personal:** [satishbiochem1@gmail.com](mailto:satishbiochem1@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dr-satish-patnaik-baggam-259b7ba9)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--8240--6191-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8240-6191)
+[![Email](https://img.shields.io/badge/Email-sbaggam%40hs.uci.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sbaggam@hs.uci.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dr-satish-patnaik-baggam-259b7ba9)
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8240-6191)
 
 ---
 
 <div align="center">
 
-*Gavin Herbert Eye Institute · Department of Ophthalmology · University of California, Irvine*
+*Advancing molecular and translational vision science through reproducible multi-omics.*
 
 </div>
