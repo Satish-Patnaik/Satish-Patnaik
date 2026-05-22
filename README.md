@@ -4,12 +4,13 @@
 
 **Assistant Project Scientist** · Gavin Herbert Eye Institute · University of California, Irvine
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--8240--6191-green?style=flat-square&logo=orcid)](https://orcid.org/0000-0001-8240-6191)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=Gc2_Oj8AAAAJ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/dr-satish-patnaik-baggam-259b7ba9)
-[![UCI Profile](https://img.shields.io/badge/UCI-Profile-003366?style=flat-square)](https://scholarconnect.uci.edu/sbaggam)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--8240--6191-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8240-6191)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Gc2_Oj8AAAAJ)
+[![PubMed](https://img.shields.io/badge/PubMed-Publications-326599?style=flat-square&logo=ncbi&logoColor=white)](https://pubmed.ncbi.nlm.nih.gov/?term=Baggam+SP)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dr-satish-patnaik-baggam-259b7ba9)
+[![UCI Profile](https://img.shields.io/badge/UCI-ScholarConnect-003366?style=flat-square)](https://scholarconnect.uci.edu/sbaggam)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9FD1&center=true&vCenter=true&width=800&lines=Single-Cell+%26+Spatial+Multi-Omics+Researcher;Molecular+Mechanisms+of+Ocular+Disease;Age-Related+Meibomian+Gland+Dysfunction+%26+Dry+Eye+Disease;10%2B+Years+in+Translational+Ocular+Research)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9FD1&center=true&vCenter=true&width=820&lines=Single-Cell+%26+Spatial+Multi-Omics+Researcher;Molecular+Mechanisms+of+Ocular+Disease;Age-Related+Meibomian+Gland+Dysfunction+%26+Dry+Eye+Disease;10%2B+Years+in+Translational+Ocular+Research)](https://github.com/DenverCoder1/readme-typing-svg)
 
 </div>
 
@@ -25,64 +26,81 @@ My research focuses on elucidating the molecular mechanisms underlying ocular su
 
 ## 🛠️ Technical Expertise
 
-### Genomics & Multi-Omics Domains
-
-| Domain | Platforms / Methods |
-|---|---|
-| Single-cell RNA-seq | 10x Chromium, Cell Ranger, Seurat, Scanpy |
-| Single-nucleus Multiome | RNA-seq + ATAC-seq, ArchR, Signac |
-| Spatial Transcriptomics | 10x Visium, GeoMx, Space Ranger |
-| ChIP-seq | Peak calling, motif enrichment, differential binding |
-| Bulk RNA-seq | STAR, HISAT2, Salmon, DESeq2, edgeR, limma |
-| Whole-Exome Sequencing | GATK, BWA, bcftools, variant annotation |
-| Metabolomics / Lipidomics | LC-MS/MS data analysis |
-
----
-
-### Bioinformatics & Computational Stack
-
-**Languages & Environments**
+**Programming & Scripting**
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Single-Cell & Multi-Omics**
+**Single-Cell & Spatial Omics**
 
 ![Seurat](https://img.shields.io/badge/Seurat-1F4E79?style=flat-square)
 ![Scanpy](https://img.shields.io/badge/Scanpy-3D6B8C?style=flat-square)
 ![ArchR](https://img.shields.io/badge/ArchR-6B3FA0?style=flat-square)
 ![Signac](https://img.shields.io/badge/Signac-2E86AB?style=flat-square)
-![Bioconductor](https://img.shields.io/badge/Bioconductor-2F9E44?style=flat-square)
 ![Cell Ranger](https://img.shields.io/badge/Cell%20Ranger-1F4E79?style=flat-square)
 ![Space Ranger](https://img.shields.io/badge/Space%20Ranger-2E86AB?style=flat-square)
 
-**Differential Expression & Enrichment**
+**Bulk Genomics**
+
+![STAR](https://img.shields.io/badge/STAR-F03E3E?style=flat-square)
+![HISAT2](https://img.shields.io/badge/HISAT2-D9480F?style=flat-square)
+![Salmon](https://img.shields.io/badge/Salmon-FA5252?style=flat-square)
+![samtools](https://img.shields.io/badge/samtools-0CA678?style=flat-square)
+![bcftools](https://img.shields.io/badge/bcftools-099268?style=flat-square)
+![GATK](https://img.shields.io/badge/GATK-2F9E44?style=flat-square)
+![Bowtie2](https://img.shields.io/badge/Bowtie2-5C7CFA?style=flat-square)
+![BWA](https://img.shields.io/badge/BWA-364FC7?style=flat-square)
+
+**Statistical Analysis**
 
 ![DESeq2](https://img.shields.io/badge/DESeq2-E03131?style=flat-square)
 ![edgeR](https://img.shields.io/badge/edgeR-C2255C?style=flat-square)
 ![limma](https://img.shields.io/badge/limma-862E9C?style=flat-square)
 ![GSEA](https://img.shields.io/badge/GSEA-1971C2?style=flat-square)
+![ComplexHeatmap](https://img.shields.io/badge/ComplexHeatmap-5F3DC4?style=flat-square)
+![ggplot2](https://img.shields.io/badge/ggplot2-3E1C96?style=flat-square)
 
-**Alignment & Variant Calling**
-
-![STAR](https://img.shields.io/badge/STAR-F03E3E?style=flat-square)
-![HISAT2](https://img.shields.io/badge/HISAT2-D9480F?style=flat-square)
-![Salmon](https://img.shields.io/badge/Salmon-FA5252?style=flat-square)
-![Bowtie2](https://img.shields.io/badge/Bowtie2-5C7CFA?style=flat-square)
-![BWA](https://img.shields.io/badge/BWA-364FC7?style=flat-square)
-![GATK](https://img.shields.io/badge/GATK-2F9E44?style=flat-square)
-![samtools](https://img.shields.io/badge/samtools-0CA678?style=flat-square)
-![bcftools](https://img.shields.io/badge/bcftools-099268?style=flat-square)
-
-**QC & Visualization**
+**QC & Reproducibility**
 
 ![FastQC](https://img.shields.io/badge/FastQC-F76707?style=flat-square)
 ![MultiQC](https://img.shields.io/badge/MultiQC-E67700?style=flat-square)
-![ggplot2](https://img.shields.io/badge/ggplot2-3E1C96?style=flat-square)
-![ComplexHeatmap](https://img.shields.io/badge/ComplexHeatmap-5F3DC4?style=flat-square)
+![Nextflow](https://img.shields.io/badge/Nextflow-23A559?style=flat-square&logo=nextflow&logoColor=white)
+![Snakemake](https://img.shields.io/badge/Snakemake-60A0D0?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**High-Performance Computing**
+
+![SLURM](https://img.shields.io/badge/SLURM-1A1B1E?style=flat-square)
+![Linux/Bash](https://img.shields.io/badge/Linux%2FBash-4EAA25?style=flat-square&logo=linux&logoColor=white)
+
+---
+
+## 🧬 Research Areas
+
+- Meibomian gland aging mechanisms
+- PPARγ regulation in sebaceous and meibocyte biology
+- Single-nuclei multiome profiling (snRNA-seq + snATAC-seq)
+- Integration of spatial transcriptomics and lipidomics
+- Retinopathy of Prematurity (ROP) pathogenesis
+- Microglial matrix metalloproteinase (MMP) regulation
+- Tear-based biomarker discovery for ocular surface disease
+- Lens biology and cataract prevention
+- Translational vision research
+
+---
+
+## 📚 Publications & Scholarly Profiles
+
+**8 peer-reviewed publications** · **190 citations** · readership spanning ~25 countries
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--8240--6191-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8240-6191)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Gc2_Oj8AAAAJ)
+[![PubMed](https://img.shields.io/badge/PubMed-Publications-326599?style=for-the-badge&logo=ncbi&logoColor=white)](https://pubmed.ncbi.nlm.nih.gov/?term=Baggam+SP)
+[![UCI ScholarConnect](https://img.shields.io/badge/UCI-ScholarConnect-003366?style=for-the-badge)](https://scholarconnect.uci.edu/sbaggam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dr-satish-patnaik-baggam-259b7ba9)
 
 ---
 
@@ -90,37 +108,28 @@ My research focuses on elucidating the molecular mechanisms underlying ocular su
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satish-Patnaik&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satish-Patnaik&layout=compact&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satish-Patnaik&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satish-Patnaik&layout=compact&theme=gruvbox&hide_border=true&langs_count=3&hide=html,css,javascript,typescript,jupyter%20notebook&include_all_commits=true)
 
 </div>
 
 ---
 
-## 📚 Selected Academic Contributions
+## 🤝 Contact & Collaboration
 
-- **Publications:** 8 peer-reviewed articles · 190 citations · readership spanning ~25 countries
-- **Peer Review:** 41 manuscripts reviewed across Elsevier and Springer Nature journals
-- **Recognition:** Young Scientist Award, Indian Society of Human Genetics (ISHG 2022)
+I welcome collaboration on single-cell and spatial multi-omics studies of ocular disease, methodological work in integrative transcriptomic–epigenomic–lipidomic analysis, peer review for vision science and genomics journals, and mentorship of trainees in computational biology and translational ophthalmic research.
 
-<div align="center">
+**Contact**
 
-[![View Publications](https://img.shields.io/badge/View%20Publications%20on%20Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Gc2_Oj8AAAAJ)
-&nbsp;
-[![ORCID Profile](https://img.shields.io/badge/ORCID%20Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8240-6191)
+- ✉️ **Institutional:** [sbaggam@hs.uci.edu](mailto:sbaggam@hs.uci.edu)
+- ✉️ **Personal:** [satishbiochem1@gmail.com](mailto:satishbiochem1@gmail.com)
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dr-satish-patnaik-baggam-259b7ba9)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--8240--6191-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8240-6191)
 
 ---
 
-## 🔗 Connect
-
 <div align="center">
-
-[UCI Scholar Profile](https://scholarconnect.uci.edu/sbaggam) ·
-[LinkedIn](https://linkedin.com/in/dr-satish-patnaik-baggam-259b7ba9) ·
-[ORCID](https://orcid.org/0000-0001-8240-6191) ·
-[Google Scholar](https://scholar.google.com/citations?user=Gc2_Oj8AAAAJ)
 
 *Gavin Herbert Eye Institute · Department of Ophthalmology · University of California, Irvine*
 
