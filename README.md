@@ -92,6 +92,67 @@ My research focuses on elucidating the molecular mechanisms underlying ocular su
 
 ---
 
+## 🎓 Education & Research Experience
+
+### Research Experience
+
+**Assistant Project Scientist** — *Gavin Herbert Eye Institute, University of California, Irvine, USA*  
+*Nov 2024 – Present*  
+**Project:** Understanding the mechanisms of age-related Meibomian Gland Dysfunction (MGD)  
+**Laboratory:** Prof. James V. Jester — Distinguished Professor and Director, Cellular and Molecular Immunology in Ophthalmology
+
+Investigating MGD — the leading cause of evaporative dry eye disease (EDED) characterized by gland atrophy, lipid deficiency, and tear film instability — using single-nucleus gene expression and multi-omics approaches. Working to identify regenerative pathways and therapeutic targets that restore gland function and reverse atrophic MGD. Collaborating across translational teams to communicate findings through data analysis, publications, and conference presentations.
+
+---
+
+**Postdoctoral Scholar** — *Jules Stein Eye Institute, University of California, Los Angeles (UCLA), USA*  
+*Aug 2022 – Nov 2024*  
+**Project:** Heterogeneity of gene expression in the ocular lens  
+**Laboratory:** Prof. Suraj P. Bhat — Oppenheimer Brothers Chair Endowed Professor, Vision Molecular Biology Laboratory, Department of Ophthalmology
+
+Studied transcriptional heterogeneity in lens fiber cells underlying the refractive index gradient required for clear vision. Isolated single fiber cells from staged mouse lenses and profiled their transcriptomes to map gene-expression programs governing lens transparency and optical properties. Applied spatial transcriptomics (GeoMx, NanoString) to resolve region-specific gene activity. Conducted and validated bulk RNA-seq of human lens epithelial tissues, integrating electron microscopy, RT-qPCR, immunofluorescence, and spatial RNA sequencing for comprehensive molecular characterization. Contributed to peer-reviewed publications and supported grant writing.
+
+---
+
+**Research Associate** — *Prof. Brien Holden Eye Research Centre, L. V. Prasad Eye Institute, India*  
+*Jan 2022 – Jun 2022*  
+**Project:** Genomic markers for major age-related eye diseases in the Andhra Pradesh Eye Disease Study (APEDS) longitudinal cohort  
+**Laboratory:** Dr. Subhabrata Chakrabarti — Associate Director (Research), Molecular Genetics
+
+Analyzed genomic data to characterize rare and common variants associated with glaucoma and anterior segment dysgenesis (ASD) in the APEDS cohort, with the goal of identifying genetic markers for early detection and risk assessment of age-related ocular disease.
+
+---
+
+**Doctoral Researcher (Ph.D.)** — *Prof. Brien Holden Eye Research Centre, L. V. Prasad Eye Institute, India (registered with the University of Hyderabad)*  
+*Jan 2015 – Jan 2022*  
+**Project:** Multi-omics approach toward understanding the pathogenesis of Retinopathy of Prematurity (ROP)  
+**Laboratory:** Dr. Inderjeet Kaur — Scientist, Molecular Genetics
+
+- Investigated Retinopathy of Prematurity (ROP), an eye condition affecting prematurely born infants with a reported prevalence of 24–47% in India.
+- Identified matrix metalloproteinase (MMP) activation in infant tears as a candidate early biomarker for ROP.
+- Demonstrated that under hypoxic stress, microglial cells secrete MMP9, leading to opticin downregulation.
+- Showed that inhibiting MMP activity rescues opticin degradation, implicating NOTCH1, ERK1, and WNT signaling pathways.
+- Performed whole-exome and metabolomic analyses, uncovering novel mutations and metabolic shifts associated with ROP pathogenesis.
+- Established a multi-omics framework highlighting signaling-pathway involvement in ROP.
+
+Developed expertise in mammalian cell culture, immunofluorescence, live-cell imaging, next-generation sequencing, and metabolite profiling. Contributed to grant writing, laboratory organization, and mentorship of junior researchers. Collaboration with clinicians and direct work with human retinal tissues strengthened translational understanding of retinal pathologies.
+
+---
+
+### Education
+
+**Ph.D., Molecular Genetics / Vision Science**  
+*University of Hyderabad* (research conducted at L. V. Prasad Eye Institute) — *2015 – 2022*  
+Thesis: Multi-omics approach toward understanding the pathogenesis of Retinopathy of Prematurity
+
+**M.Sc., Biochemistry** — *GITAM University, India* — *Aug 2011 – Nov 2013*  
+CGPA: 8.09 / 10 — First class with distinction
+
+**B.Sc., Biotechnology, Biochemistry & Microbiology** — *Rajah R. S. R. K. R. R. College, India* — *2009 – 2011*  
+First class
+
+---
+
 ## 📚 Publications & Scholarly Profiles
 
 **8 peer-reviewed publications** · **190 citations** · readership spanning ~25 countries
