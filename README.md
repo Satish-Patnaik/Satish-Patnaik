@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dr-satish-patnaik-baggam-259b7ba9)
 [![UCI Profile](https://img.shields.io/badge/UCI-ScholarConnect-003366?style=flat-square)](https://scholarconnect.uci.edu/sbaggam)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9FD1&center=true&vCenter=true&width=820&lines=Single-Cell+%26+Spatial+Multi-Omics+Researcher;Molecular+Mechanisms+of+Ocular+Disease;Age-Related+Meibomian+Gland+Dysfunction+%26+Dry+Eye+Disease;10%2B+Years+in+Translational+Ocular+Research)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3B7A8C&center=true&vCenter=true&width=820&lines=Single-Cell+%26+Spatial+Multi-Omics+Researcher;Molecular+Mechanisms+of+Ocular+Disease;Age-Related+Meibomian+Gland+Dysfunction+%26+Dry+Eye+Disease;10%2B+Years+in+Translational+Ocular+Research)](https://github.com/DenverCoder1/readme-typing-svg)
 
 </div>
 
@@ -18,9 +18,7 @@
 
 ## 🔬 About Me
 
-My research focuses on elucidating the molecular mechanisms underlying ocular surface disease, with particular emphasis on age-related Meibomian Gland Dysfunction (MGD) and dry eye disease. Over 10+ years of molecular and translational ocular research, I have leveraged single-cell and spatial multi-omics platforms — including single-nucleus multiome (RNA-seq + ATAC-seq), spatial transcriptomics (10x Visium, GeoMx), and bulk genomics — to characterize cell-type-specific transcriptional and chromatin accessibility programs in the eye. My current work integrates single-cell RNA-seq, single-nucleus ATAC-seq, and metabolomics/lipidomics (LC-MS/MS) to identify disease-associated gene regulatory networks and lipid metabolic dysregulation in the Meibomian gland. I have contributed 8 peer-reviewed publications (190 citations spanning researchers across ~25 countries) and have served as a peer reviewer for 41 manuscripts across Elsevier and Springer Nature journals.
-
-🧬 **Recognition:** Young Scientist Award, Indian Society of Human Genetics (ISHG 2022)
+My research focuses on elucidating the molecular mechanisms underlying ocular surface disease, with particular emphasis on age-related Meibomian Gland Dysfunction (MGD) and dry eye disease. Over 10+ years of molecular and translational ocular research, I have leveraged single-cell and spatial multi-omics platforms — including single-nucleus multiome (RNA-seq + ATAC-seq), spatial transcriptomics (10x Visium, GeoMx), and bulk genomics — to characterize cell-type-specific transcriptional and chromatin accessibility programs in the eye. My current work integrates single-cell RNA-seq, single-nucleus ATAC-seq, and metabolomics/lipidomics (LC-MS/MS) to identify disease-associated gene regulatory networks and lipid metabolic dysregulation in the Meibomian gland. I have contributed 7 peer-reviewed articles and 1 book chapter (190 citations spanning researchers across ~25 countries) and have served as a peer reviewer for 41 manuscripts across Elsevier and Springer Nature journals.
 
 ---
 
@@ -141,7 +139,7 @@ Developed expertise in mammalian cell culture, immunofluorescence, live-cell ima
 
 ### Education
 
-**Ph.D., Molecular Genetics / Vision Science**  
+**Ph.D., Molecular Genetics & Vision Science (Ophthalmic Research)**  
 *University of Hyderabad* (research conducted at L. V. Prasad Eye Institute) — *2015 – 2022*  
 Thesis: Multi-omics approach toward understanding the pathogenesis of Retinopathy of Prematurity
 
@@ -155,7 +153,7 @@ First class
 
 ## 📚 Publications & Scholarly Profiles
 
-**8 peer-reviewed publications** · **190 citations** · readership spanning ~25 countries
+**7 peer-reviewed articles + 1 book chapter** · **190 citations** · readership spanning ~25 countries
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--8240--6191-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8240-6191)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Gc2_Oj8AAAAJ)
